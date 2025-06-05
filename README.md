@@ -17,27 +17,47 @@
 </div>
 
 
-### 🤖搜索机器人(🔵请使用文用户名，例如陈某人只要是中文昵称就送USDT🔵)
+## 🤖 搜索机器人
 
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7744037840)                       | 搜索关键词找群、频道、电影|
-| SOSO机器人  | [@soso](https://t.me/soso?start=a_7744037840)                     | 搜索关键词寻找群组、频道           |
-| 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7744037840)               | 搜索关键词帮你找到电报群、频道、视频、音乐|
-| i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7744037840)             | 关键词搜索。                 |
-| 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7744037840)                  | 发送关键词搜索关联群组与频道资源         |
-| Super搜索       | [@Super](https://t.me/Super?start=ref-7744037840)                | 查找群组、频道        |
-|北极星搜索       | [@PolarisseekBot](https://t.me/PolarisseekBot)                | 查找群组、频道        |
-|狗狗索引      | [@DogeIndexBot](https://t.me/DogeIndexBot?start=DGB-fc0deea107b3435595f9296307df8da2)                | 查找群组、频道         |
-|快搜索       | [@kuai](https://t.me/kuai?start=a_7744037840)                | 查找群组、频道，音乐或机器人         |
-|搜书神器v2       | [@sosdbot](https://t.me/sosdbot?start=fromid_7744037840)                | 全年龄段搜书       |
-|好音乐搜索       | [@haoyybot](https://t.me/haoyybot)                | 查找群组、频道、影视、音乐或机器人         |
-| 电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人。会员自动开通机器人  欢迎大家免费克隆 1秒免费做同款机器人，赚美金usdt、自动开通会员、全网最低价格、9大功能让你拥有自己的机器人|
-| 每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点  |
-| 撸空投💰币圈💰Web3   | [@tglukongtou](https://t.me/tglukongtou)         | 💰分享最新前沿的空投资讯，奔向财务自由之路 |
-| GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
-| 🍉 吃瓜无限 | [https://t.me/achiguao](https://t.me/achiguao) | 实时分享全网第一个热瓜      |
-| 🍉吃瓜情报局   | [@MrGua88](https://t.me/MrGua88)            | 全華人圈的爆料集散地  |
+🔵 **请使用文用户名，例如陈某人，只要是中文昵称就送USDT🔵
+
+### 🔍 关键词搜索与群组查找
+
+| **名字**        | **链接**                                                                  | **功能描述**                           |
+|---------------|------------------------------------------------------------------|--------------------------------------|
+| **极搜JiSo**  | [@jiso](https://t.me/jiso?start=a_7744037840)                   | 搜索关键词找群、频道、电影           |
+| **SOSO机器人** | [@soso](https://t.me/soso?start=a_7744037840)                   | 搜索关键词寻找群组、频道              |
+| **极搜JiSou**  | [@jisou](https://t.me/jisou?start=a_7744037840)                 | 搜索关键词帮你找到电报群、频道、视频、音乐 |
+| **i快搜**     | [@ikuaisobot](https://t.me/ikuaisobot?start=7744037840)         | 关键词搜索。                           |
+| **神马搜索(签到有收益)** | [@smss](https://t.me/smss?start=spread_7744037840)       | 发送关键词搜索关联群组与频道资源        |
+| **Super搜索** | [@Super](https://t.me/Super?start=ref-7744037840)               | 查找群组、频道                        |
+| **北极星搜索** | [@PolarisseekBot](https://t.me/PolarisseekBot)                 | 查找群组、频道                        |
+| **狗狗索引**   | [@DogeIndexBot](https://t.me/DogeIndexBot?start=DGB-fc0deea107b3435595f9296307df8da2) | 查找群组、频道 |
+| **快搜索**    | [@kuai](https://t.me/kuai?start=a_7744037840)               | 查找群组、频道，音乐或机器人 |
+
+### 🎵 书籍与音乐搜索
+
+| **名字**        | **链接**                                                        | **功能描述**                 |
+|---------------|------------------------------------------------------------|--------------------------|
+| **搜书神器v2** | [@sosdbot](https://t.me/sosdbot?start=fromid_7744037840)    | 全年龄段搜书                 |
+| **好音乐搜索** | [@haoyybot](https://t.me/haoyybot)                         | 查找群组、频道、影视、音乐或机器人 |
+
+### 💎 电报会员与空投资讯
+
+| **名字**             | **链接**                                                         | **功能描述**                                       |
+|--------------------|-------------------------------------------------------------|-------------------------------------------------|
+| **电报会员机器人** | [@kttgvip_bot](https://t.me/kttgvip_bot)                   | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付 |
+| **每日免费节点**   | [VPN导航](https://vpnnav.github.io)                         | 每天整点准时更新免费高速节点                    |
+| **撸空投💰币圈💰Web3** | [@tglukongtou](https://t.me/tglukongtou)                   | 💰 分享最新前沿的空投资讯，奔向财务自由之路      |
+| **GMGN抓金狗百倍币** | [@gmgnaibot](https://t.me/gmgnaibot)                       | 💰 GMGN是加密货币领域最强大的数据分析平台        |
+
+### 🍉 娱乐与爆料
+
+| **名字**          | **链接**                                                  | **功能描述**              |
+|------------------|------------------------------------------------------|------------------------|
+| **吃瓜无限**    | [吃瓜无限](https://t.me/achiguao)                    | 实时分享全网第一个热瓜   |
+| **吃瓜情报局**  | [@MrGua88](https://t.me/MrGua88)                     | 全华人圈的爆料集散地     |
+
 
 ## 📢 Telegram频道推荐
 
@@ -398,7 +418,6 @@
 ### 📈 股票与交易
 | **名称** | **频道ID** | **简介** |
 |---------|----------------------|------------------------------------|
-| **Trading e-Book Room** | [交易电子书](https://t.me/tradingbookroom) | 交易者学习资源 |
 | **韭菜重生之旅** | [韭菜重生](https://t.me/CaiRebirth) | 美股投资者交流 |
 | **小熊猫的交易之路** | [交易之路](https://t.me/redPandaStock) | 交易市场讨论 |
 | **美股频道 Stock USA** | [美股频道](https://t.me/mgstock) | 股票研究与讨论 |
@@ -1342,7 +1361,6 @@
 * mini 图标包 for Quantumult X:[https://t.me/Orzmini](https://t.me/Orzmini)
 * PVSZ for QuanX:[https://t.me/PVSZforQuanX](https://t.me/PVSZforQuanX)
 * QuantumultX & Surge 脚本收集:[https://t.me/NobyDa](https://t.me/NobyDa)
-* Quantumult X JS 收集分享:[https://t.me/QuanXJS](https://t.me/QuanXJS)
 * Quantumult X 功能教学:[https://t.me/HellCellZC123](https://t.me/HellCellZC123)
 * QuantumultX 教程 & API & 解析器 更新通知频道:[https://t.me/QuanX_API](https://t.me/QuanX_API)
 * Chavy Scripts:[https://t.me/chavyscripts](https://t.me/chavyscripts)
