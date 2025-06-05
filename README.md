@@ -17,7 +17,7 @@
 </div>
 
 
-### 搜索机器人(🔵请使用文用户名，例如陈某人只要是中文昵称就送USDT🔵)
+### 🤖搜索机器人(🔵请使用文用户名，例如陈某人只要是中文昵称就送USDT🔵)
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
@@ -25,11 +25,11 @@
 | SOSO机器人  | [@soso](https://t.me/soso?start=a_7744037840)                     | 搜索关键词寻找群组、频道           |
 | 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7744037840)               | 搜索关键词帮你找到电报群、频道、视频、音乐|
 | i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7744037840)             | 关键词搜索。                 |
-| 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7744037840)                  | 发送词语即可搜索关联群组与频道资源         |
-| Super搜索       | [@Super](https://t.me/Super?start=ref-7744037840)                | 查找群组、频道、影视、音乐或机器人         |
-|北极星搜索       | [@PolarisseekBot](https://t.me/PolarisseekBot)                | 查找群组、频道、影视、音乐或机器人         |
-|狗狗索引      | [@DogeIndexBot](https://t.me/DogeIndexBot?start=DGB-fc0deea107b3435595f9296307df8da2)                | 查找群组、频道、影视、音乐或机器人         |
-|快搜索       | [@kuai](https://t.me/kuai?start=a_7744037840)                | 查找群组、频道、影视、音乐或机器人         |
+| 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7744037840)                  | 发送关键词搜索关联群组与频道资源         |
+| Super搜索       | [@Super](https://t.me/Super?start=ref-7744037840)                | 查找群组、频道        |
+|北极星搜索       | [@PolarisseekBot](https://t.me/PolarisseekBot)                | 查找群组、频道        |
+|狗狗索引      | [@DogeIndexBot](https://t.me/DogeIndexBot?start=DGB-fc0deea107b3435595f9296307df8da2)                | 查找群组、频道         |
+|快搜索       | [@kuai](https://t.me/kuai?start=a_7744037840)                | 查找群组、频道，音乐或机器人         |
 |搜书神器v2       | [@sosdbot](https://t.me/sosdbot?start=fromid_7744037840)                | 全年龄段搜书       |
 |好音乐搜索       | [@haoyybot](https://t.me/haoyybot)                | 查找群组、频道、影视、音乐或机器人         |
 | 电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人。会员自动开通机器人  欢迎大家免费克隆 1秒免费做同款机器人，赚美金usdt、自动开通会员、全网最低价格、9大功能让你拥有自己的机器人|
@@ -199,7 +199,7 @@
 | Approve By Poll       | [@KimmyXYC_Approve_By_Poll_bot](https://t.me/KimmyXYC_Approve_By_Poll_bot/) | 通过投票决定是否同意新成员的入群申请       |
 | Cleaning Toolbox      | [@CleaningToolboxBot](https://t.me/CleaningToolboxBot/)             | 自动踢出所有群组成员                       |
 
-#### 频道分析
+#### 频道分析机器人
 
 | 名字                  | 链接                                                                 | 功能描述                                   |
 | :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
@@ -212,7 +212,7 @@
 | TGStat Bot            | [@TGStat_Bot](https://t.me/TGStat_Bot/)                             | TGStat数据分析机器人                       |
 | Combot                | [@combot](https://t.me/combot/)                                     | Telegram 群组的最佳社区管理服务。管理、分析、触发器等 |
 
-#### 欢迎
+#### 欢迎机器人
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
@@ -255,13 +255,13 @@
 | 入群验证bot      | [@shieldy_bot](https://t.me/shieldy_bot)       | 入群验证bot  |
 | 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
 
-#### 看门
+#### 看门机器人
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 看门机器人      | [@WatchDoorBot](https://t.me/WatchDoorBot)       | 可禁止发送指定类型的信息,用于避免恶意举报,官方地址https://hackmd.io/s/BkwAIgrL7  |
 
-#### 昵称
+#### 昵称机器人
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
@@ -288,11 +288,28 @@
 | Pixiv下载          | [@Pixiv_bot](https://t.me/Pixiv_bot)          | Pixiv下载                                |
 | 电影搜索机器人     | [@Cctv365bot](https://t.me/Cctv365bot)        | 电影搜索机器人                          |
 
-#### 其他有趣机器人
+#### 综合机器人
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-|  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=MC7UXNX2POPFCUJY)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
+| 统计群组发言数   | [@jung2_bot](https://t.me/jung2_bot)        | 统计群组中用户的发言数      |
+| 统计秘书      | [@FengStatsBot](https://t.me/FengStatsBot)       | 统计秘书,本秘书做群中各种统计，发言次数等  |
+| 管理通知      | [@MasterTagAlertBot](https://t.me/MasterTagAlertBot)       | 管理通知  |
+| IMDb查电影信息   | [@imdb](https://t.me/imdb)        | IMDb查电影信息      |
+| URL转TG档案      | [@uploadbot](https://t.me/uploadbot)       | 神奇的普通URL網址轉TG檔案，单个文件限制500M,每天限制1GB。如果想更多空間可以買VIP  |
+| 提供工作机会      | [@jobs_bot](https://t.me/jobs_bot)       | telegram官方提供工作机会  |
+| 临时邮箱机器人      | [@sms24_me](https://t.me/sms24_me)       | 提供电话号码用于接收短信  |
+| 群组管理      | [http://teleme.io](http://teleme.io)       | TeleMe 是一款功能强大又方便好用的 Telegram 社群管理 Bot 机器人,收费,有免费额度  |
+| 搜索机器人      | [@SearcheeBot](https://t.me/SearcheeBot)       | TG频道搜索机器人  |
+| bot搜索   | [@BotListBot](https://t.me/BotListBot)        | bot搜索      |
+| 查找bot,频道,群,贴纸等      | [@ExploreTelegramBot](https://t.me/ExploreTelegramBot)       | 查找bot,频道,群,贴纸等  |
+| 群管bot      | [@GroupHelpBot](https://t.me/GroupHelpBot)       | 群管bot,除了常用的命令,还可以查看近期不活跃名单,设置关键字自动回复  |
+| 生成私聊机器人   | [@LimitatiBot](https://t.me/LimitatiBot)        | 生成私聊机器人      |
+| 给管理员发消息      | [@callAdminsBot](https://t.me/callAdminsBot)       | 给管理员发消息  |
+| 黑名单机器人      | [@hexlightning_bot](https://t.me/hexlightning_bot)       | 台灣人自己的黑名單機器人  |
+| 创建临时邮箱机器人   | [@DropmailBot](https://t.me/DropmailBot)        | 临时邮箱顾名思义是个临时的匿名邮箱，可以用来保护个人隐私和防止垃圾邮件      |
+| 中文Telegram RSS机器人   | [@RustRssBot](https://t.me/RustRssBot)        | 中文 Telegram RSS 机器人     |
+| 解除频道消息在群组的置顶   | [@areply_bot](https://t.me/areply_bot)        | 自动解除频道消息在群组的同步置顶，附带群组日常维护常用小功能  |
 | 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
 | 群管理机器人      | [@nmnmfunbot](https://t.me/nmnmfunbot)       |中文用户使用最多的群管理机器人，几乎什么功能都有  |
 | 群管理机器人      | [@GroupHelpBot](https://t.me/GroupHelpBot)       |根据自己群组的需要设定一系列的自动化内容，如欢迎语、跳转到社媒账号或独立站、删除信息、警告用户等  |
@@ -337,24 +354,7 @@
 | 禁止群聊天   | [@HushRobot](https://t.me/HushRobot)        | 禁止群聊天      |
 | 删除进群退群提示信息      | [@joinhider_bot](https://t.me/joinhider_bot)       | 删除进群退群提示信息  |
 | 删除欢迎信息      | [@nohello_robot](https://t.me/nohello_robot)       | 删除欢迎信息  |
-| 统计群组发言数   | [@jung2_bot](https://t.me/jung2_bot)        | 统计群组中用户的发言数      |
-| 统计秘书      | [@FengStatsBot](https://t.me/FengStatsBot)       | 统计秘书,本秘书做群中各种统计，发言次数等  |
-| 管理通知      | [@MasterTagAlertBot](https://t.me/MasterTagAlertBot)       | 管理通知  |
-| IMDb查电影信息   | [@imdb](https://t.me/imdb)        | IMDb查电影信息      |
-| URL转TG档案      | [@uploadbot](https://t.me/uploadbot)       | 神奇的普通URL網址轉TG檔案，单个文件限制500M,每天限制1GB。如果想更多空間可以買VIP  |
-| 提供工作机会      | [@jobs_bot](https://t.me/jobs_bot)       | telegram官方提供工作机会  |
-| 临时邮箱机器人      | [@sms24_me](https://t.me/sms24_me)       | 提供电话号码用于接收短信  |
-| 群组管理      | [http://teleme.io](http://teleme.io)       | TeleMe 是一款功能强大又方便好用的 Telegram 社群管理 Bot 机器人,收费,有免费额度  |
-| 搜索机器人      | [@SearcheeBot](https://t.me/SearcheeBot)       | TG频道搜索机器人  |
-| bot搜索   | [@BotListBot](https://t.me/BotListBot)        | bot搜索      |
-| 查找bot,频道,群,贴纸等      | [@ExploreTelegramBot](https://t.me/ExploreTelegramBot)       | 查找bot,频道,群,贴纸等  |
-| 群管bot      | [@GroupHelpBot](https://t.me/GroupHelpBot)       | 群管bot,除了常用的命令,还可以查看近期不活跃名单,设置关键字自动回复  |
-| 生成私聊机器人   | [@LimitatiBot](https://t.me/LimitatiBot)        | 生成私聊机器人      |
-| 给管理员发消息      | [@callAdminsBot](https://t.me/callAdminsBot)       | 给管理员发消息  |
-| 黑名单机器人      | [@hexlightning_bot](https://t.me/hexlightning_bot)       | 台灣人自己的黑名單機器人  |
-| 创建临时邮箱机器人   | [@DropmailBot](https://t.me/DropmailBot)        | 临时邮箱顾名思义是个临时的匿名邮箱，可以用来保护个人隐私和防止垃圾邮件      |
-| 中文Telegram RSS机器人   | [@RustRssBot](https://t.me/RustRssBot)        | 中文 Telegram RSS 机器人     |
-| 解除频道消息在群组的置顶   | [@areply_bot](https://t.me/areply_bot)        | 自动解除频道消息在群组的同步置顶，附带群组日常维护常用小功能  |
+
 
 ## 金融相关
 
