@@ -157,7 +157,7 @@
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付|
-| okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--7744037840)       |可用于店租（Amazon、Shopify、Shope等）、广告（Facebook、Google等）、云服务、游戏、开发者应用、海淘购物等全场景支付。|
+| okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--7744037840)       |可用于店租（Amazon、Shopify、Shope）、广告（Facebook、Google）、云服务、开发者应用、海淘购物等全场景支付。|
 
 #### Telegram电报官方机器人
 
@@ -203,7 +203,7 @@
 
 | 名字                  | 链接                                                                 | 功能描述                                   |
 | :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| Channel Help          | [@chelpbot](https://t.me/chelpbot/)                                 | 轻松管理频道，定时发布帖子                 |
+| Channel Help          | [@chelpbot](https://t.me/chelpbot/)                                 | 轻松管理频道，定时发布帖                 |
 | LikeBot               | [@like](https://t.me/like/)                                         | 为频道帖子创建表情回应按钮                 |
 | DiscussBot            | [@discussbot](https://t.me/discussbot/)                             | 为频道所有帖子添加评论按钮                 |
 | React Bot             | [@ReactBot](https://t.me/ReactBot/)                                 | 为频道帖子添加表情回应和评论               |
@@ -224,9 +224,25 @@
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| 长名广告专杀      | [@adnamekillerbot](https://t.me/adnamekillerbot)       | 长名广告专杀  |
+| 长名广告专杀      | [@adnamekillerbot](https://t.me/adnamekillerbot)       | 长名专杀  |
 | 限制新群员      | [@AutoRestrictBot](https://t.me/AutoRestrictBot)       | 限制新群员  |
 | 删除进出群消息   | [@AntiServiceMessageBot](https://t.me/AntiServiceMessageBot)        |删除群组和超级群组中的加入/离开消息 |
+
+#### 协助管理群组机器人验证
+
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 欢迎消息，消息自毁，进群验证      | [@FengDoorBot](https://t.me/FengDoorBot)       | 欢迎消息，消息自毁，进群验证  |
+| 进群验证问题   | [@orgrobot](https://t.me/orgrobot)        | 进群验证问题,群管可自定义验证问题,以后可能收费      |
+| 谷歌人机验证      | [@fuckuspambot](https://t.me/fuckuspambot)       | 过滤机器人已经支持入群的时候使用谷歌人机验证了。  |
+| 入群验证bot      | [@shieldy_bot](https://t.me/shieldy_bot)       | 入群验证bot  |
+| 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
+| 验证机器人      | [@P4CaptchaBot](https://t.me/P4CaptchaBot)       | 验证机器人，四个汉字验证码  |
+| 验证机器人      | [@group_confirmation_bot](https://t.me/group_confirmation_bot)       | 验证机器人，四个汉字验证码  |
+| 加群验证,杀广告   | [@tgcnjoincaptchabot](https://t.me/tgcnjoincaptchabot)        | 加群验证,杀广告      |
+| reCAPTCHA 验证码      | [@TGreCAPTCHABot](https://t.me/TGreCAPTCHABot)       | 给 Telegram 群组用的 reCAPTCHA 验证码  |
+| 加群验证码      | [@jqs7zweibot](https://t.me/jqs7zweibot)       | 加群验证码  |
+| 自定义问题加群验证      | [@policr_bot](https://t.me/policr_bot)       | 加群验证,用户可以自定义问题  |
 
 #### 群组抽奖机器人
 
@@ -238,22 +254,6 @@
 | 抽奖机器人      | [@fengdrawbot](https://t.me/fengdrawbot)       | 抽奖机器人  |
 | Telegram 抽奖助手      | [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 抽奖助手  |
 | Telegram 抽奖活动导航 | [@Lottery_home](https://t.me/Lottery_home) | 想白嫖的推荐关注，想推广群组的在自己群使用bot创建抽奖后可以选择是否推荐到这个频道。 |
-
-#### 协助管理群组机器人验证
-
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 验证机器人      | [@P4CaptchaBot](https://t.me/P4CaptchaBot)       | 验证机器人，四个汉字验证码  |
-| 验证机器人      | [@group_confirmation_bot](https://t.me/group_confirmation_bot)       | 验证机器人，四个汉字验证码  |
-| 加群验证,杀广告   | [@tgcnjoincaptchabot](https://t.me/tgcnjoincaptchabot)        | 加群验证,杀广告      |
-| reCAPTCHA 验证码      | [@TGreCAPTCHABot](https://t.me/TGreCAPTCHABot)       | 给 Telegram 群组用的 reCAPTCHA 验证码  |
-| 加群验证码      | [@jqs7zweibot](https://t.me/jqs7zweibot)       | 加群验证码  |
-| 自定义问题加群验证      | [@policr_bot](https://t.me/policr_bot)       | 加群验证,用户可以自定义问题  |
-| 欢迎消息，消息自毁，进群验证      | [@FengDoorBot](https://t.me/FengDoorBot)       | 欢迎消息，消息自毁，进群验证  |
-| 进群验证问题   | [@orgrobot](https://t.me/orgrobot)        | 进群验证问题,群管可自定义验证问题,以后可能收费      |
-| 谷歌人机验证      | [@fuckuspambot](https://t.me/fuckuspambot)       | 过滤机器人已经支持入群的时候使用谷歌人机验证了。  |
-| 入群验证bot      | [@shieldy_bot](https://t.me/shieldy_bot)       | 入群验证bot  |
-| 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
 
 
 
@@ -268,7 +268,7 @@
 
 | 名字               | 链接                                           | 功能描述                                   |
 | :---               | :----:                                         | :---                                       |
-| 网易云音乐下载     | [@Music163bot](https://t.me/Music163bot)       | 支持网易云音乐下载                        |
+| 网易云音乐下载     | [@Music163bot](https://t.me/Music163bot)       | 支持网易云下载                        |
 | 抖音 TikTok 视频图集解析 | [@DouYintg_bot](https://t.me/DouYintg_bot)   | 支持抖音、TikTok、X推特、小红书等视频图集解析，支持去水印 |
 | 支持推特、微博、小红书、reddit解析 | [@web2album_bot](https://t.me/web2album_bot) | 支持推特、微博、小红书、reddit解析，支持长截图分割 |
 | B站、抖音、微博等解析 | [@bilibiliparse_bot](https://t.me/bilibiliparse_bot) | 支持B站、抖音、小红书、推特、Ins、油管、TikTok等解析 |
@@ -288,7 +288,7 @@
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| 统计群组发言数   | [@jung2_bot](https://t.me/jung2_bot)        | 统计群组中用户的发言数      |
+| 统计群组发言数   | [@jung2_bot](https://t.me/jung2_bot)        | 统计群组用户的发言数      |
 | 统计秘书      | [@FengStatsBot](https://t.me/FengStatsBot)       | 统计秘书,本秘书做群中各种统计，发言次数等  |
 | 管理通知      | [@MasterTagAlertBot](https://t.me/MasterTagAlertBot)       | 管理通知  |
 | IMDb查电影信息   | [@imdb](https://t.me/imdb)        | IMDb查电影信息      |
@@ -357,7 +357,7 @@
 | 名称 | 频道ID | 简介 |
 |-------|--------|------|
 | 金十数据 闪电资讯 | https://tgdriver.com/sites/453.html | 实时推送【金十数据】 7x24小... |
-| 美卡交流 | https://t.me/joinchat/KieX1xUIH-3W8s_hYPUyXg | 群内骂脏话、聊政治、黑产、... |
+| 美卡交流 | https://t.me/joinchat/KieX1xUIH-3W8s_hYPUyXg | 禁止骂脏话、聊政治、黑产、... |
 | 跨境支付知多少 | https://t.me/+Vfd5p3CJEcPwafnb | 本群是专业走资群。谈论政治... |
 | TangTalk官方小喇叭 | https://t.me/tangtalknews | TangTalk官方小喇叭，欢迎关注 |
 | 85.60×53.98卡粉订阅/提醒 | https://t.me/DocOfCard | 85.60×53.98卡粉群：@DocOfCa... |
@@ -395,7 +395,7 @@
 
 | 名称 | 频道ID | 简介 |
 |-------|--------|------|
-| 👸大漂亮的小夥伴們（唯一群！嚴打廣告，大漂亮不會主動DM各位小夥伴） | https://t.me/giantcutie6688 | 大漂亮唯一tg群，有冒牌社區，大家仔細辨別。群內非官方🔗連結請慎點！ 你在元宇宙世界裡的第一個好�... |
+| 👸大漂亮的小夥伴們（唯一群！嚴打廣告，大漂亮不會主動DM各位小夥伴） | https://t.me/giantcutie6688 | 大漂亮唯一tg群，有冒牌社區，大家仔細辨別。群內非官方🔗連結請慎點！ ... |
 | Vultr 用户群 | https://t.me/vultr_group | Vultr 用户群，非官方 群规 * 禁止传播谣言/盗版 * 禁止撕逼 (谩骂/人身攻击等) * 禁止讨论免流/黄赌毒/宗教... |
 | NewlearnerのIT社群 | https://t.me/NewlearnerGroup | 【注意】加群需经管理同意，完善头像、昵称、简介更容易通过 Main Topics：以 IT 话题为主，包括但不局限�... |
 | 科技圈🎗の 茶馆 | https://t.me/zaihuachat | 【莫談國事】 • 禁止推广/黑产/刷屏/色情/NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳�... |
@@ -439,7 +439,7 @@
 | mini club | https://t.me/Orz_mini | mini频道：https//t.me/Orzmini |
 | 手机里有一款开放世界手游 | https://t.me/Orz_zayu | 💡已开放 🚫禁止广告、键政、对线、乞讨、肛交。 音乐频道 @ZAYU_music 一个好朋友的频道 @pingrangTV |
 | Rust 众 | https://t.me/rust_zh | 本频道是 Rust（编程语言）中文讨论群的入口 |
-| 东京IT技术者交流群 | https://t.me/TokyoIT | ❴TokyoIT讨论组❵ 畅所欲言 滔滔不绝 【禁止發布準則】🈲️色情、🈲️广告、🈲️黑产、🈲️推广群链... |
+| 东京IT技术者交流群 | https://t.me/TokyoIT | ❴TokyoIT讨论组❵ 畅所欲言 滔滔不绝 【禁止發布準則】🈲️色情、🈲️广告、🈲️黑产、... |
 | PixelExperience - Official chat | https://t.me/pixelexperiencechat | Welcome to PixelExperience official chat Group rules ? Type /rules Website get.pixelexperience.org Twitter twitter.com/PixelExpRom Github gi... |
 | GIF 群聚地 | https://t.me/GIFgroupTW | 「血腥」「R-18」與「簡體」為禁發項目，動圖屬性交由管理群判定；灰色地帶管理群持保留解釋權力，勿�... |
 | 貼圖群 - 進群閱置頂 Sticker Group Taiwan | https://t.me/StickerGroup | 🥇新手教學 @StartzeroTG 🥈本群規定 telegra.ph/Sticker-Group-Rule-03-22 🥉本群連結 t.me/StickerGroup |
@@ -452,8 +452,8 @@
 | 电报人:对事不对人，不得贬低群员 | https://t.me/three001 | 群宗旨信息分享,了解世界,强大自己 群规则 1.不可攻击群员，不能水群 2.多研究问题，少谈主义 3.多分享�... |
 | Google Drive 无限容量 | https://t.me/google_drive | 本群提供无限容量 Google Drive 申请方法、大电影小电影电子书无损音乐等资源。 This group provides ways to get unl... |
 | 读舍 - 享受阅读时光 | https://t.me/shufm | 读舍：享受阅读时光，畅谈读书心得 🌍 网站 https//shu.fm 📻 播客：苹果播客｜小宇宙｜Google Podcast｜Spotify... |
-| 写作交流 | https://t.me/writing_discuss | 关键词：阅读 写作 交流 如果给你寄一本书， 我不会寄给你诗歌 ， 我要给你一本关于植物，关于庄稼的 �... |
-| iGame 游戏交流群 | https://t.me/gamecn | 天下玩家是一家。这里是游戏爱好者的交流群，讨论游戏限于： * PC游戏(Steam)，核心向游戏和独立游戏 * �... |
+| 写作交流 | https://t.me/writing_discuss | 关键词：阅读 写作  如果给你寄一本书， 我不会寄给你诗歌 ， 我要给你一本关于植物，关于庄稼的 �... |
+| iGame 游戏交流群 | https://t.me/gamecn | 天下玩家是一家。这里是游戏爱好者的交流群，讨论游戏限于：  PC游戏(Steam)，核心向游戏和独立游戏 * �... |
 | 电影爱好者交流 | https://t.me/Moviemarket_group | 电影爱好者 https//t.me/MovieAnywhere |
 | Terminus 终点站 <有问题看置顶和wiki\|注册时间请关注频道> | https://t.me/EmbyPublic | 终点站通知 https//t.me/embypub 白嫖指南 https//embywiki.911997.xyz 对Wiki有疑问先看置顶信息！ Wiki打不开的话看 htt... |
 | OpenWRT*LEDE/Wireless Routers | https://t.me/OpenWRT_Routers | 这是关于路由器和无线设备的讨论组………………的重生版 请务必明确越高端的硬件可玩性越好的传统\|ω�... |
@@ -557,7 +557,7 @@
 | 中文独立博客 | https://t.me/indieBlogs | Chinese independent blogs |
 | 黑苹果osx86项目中文讨论/Hackintosh CHN Discussion | https://t.me/osx86zh | PC安装macOS的各种相关问题讨论群 本群直接ban伸手党 提问之前请确认你已在 Google 上搜索过并已阅读置顶信... |
 | Chromebook CN | https://t.me/chromebook_cn | Chromebook 中文讨论组 (Chinese Group) Spam账号较多，本群已开启人工验证，如需进群可以私管理 @twiceyuan |
-| C 语言中文交流 | https://t.me/Clanguagezh | C 是一种通用的程式語言，广泛用于系统软件与应用软件的开发。 禁止广告、招聘、引战、开车、拼车、�... |
+| C 语言中文交流 | https://t.me/Clanguagezh | C 是一种通用的程式語言，用于系统软件与应用软件的开发。 禁止广告、招聘、引战、开车、拼车、�... |
 | C++ 中文交流 | https://t.me/cpluspluszh | 欢迎你来这里交流编程经验！ Code with love 加入即视为您遵守以下规则 禁止广告、招聘、引战、开车、拼车... |
 | CSS 討論區 | https://t.me/csstw | HTML和CSS的討論區 友情联盟： @coderzh 台灣區塊鏈遊戲社群 https//t.me/GBGATW |
 | Haskell 中文交流 | https://t.me/haskellzh | Haskell 是一种标准化的，通用的纯函数程序语言，有非限定性语义和强静态类型 误封申诉： @SCP_079_TICKET_BOT... |
@@ -578,7 +578,7 @@
 | Aria2 中文交流群 | https://t.me/Aria2_CN | 无描述 |
 | Pure Writer Releases | https://t.me/purewriter | Changelogs in this channel are usually written in ... |
 | EOS | https://t.me/EOSproject | The Most Powerful Infrastructure for Decentralized... |
-| IINA 中文 | https://t.me/IINAUsersZH | IINA 的官方中文讨论群 此群禁止广告 |
+| IINA 中文 | https://t.me/IINAUsersZH | IINA 的官方中文讨论群 群禁止广告 |
 | IINA | https://t.me/IINAUsers | The official discussion group for IINA. |
 | RSSHub - Everything is RSSible | https://t.me/rsshub | Channel @awesomeRSSHub Repo https://github.com/D... |
 | Mac玩儿法茶馆 | https://t.me/waerfa | 无描述 |
@@ -673,7 +673,6 @@
 
 ### 翻墙
 
-* 机场VPN导航站:[https://vpnnav.github.io/](https://vpnnav.github.io/)
 * Shadowsocks&Clash:[https://t.me/shadowsocks_clash](https://t.me/shadowsocks_clash)
 * 不良林:[https://t.me/buliang00](https://t.me/buliang00)
 * 搬瓦工 (BandwagonHost):[https://t.me/BandwagonHostUsers](https://t.me/BandwagonHostUsers)
@@ -1596,14 +1595,6 @@
 * BBC 中文:[https://t.me/bbczhongwen_rss](https://t.me/bbczhongwen_rss)
 * FT 中文网:[https://t.me/ftzhongwen_rss](https://t.me/ftzhongwen_rss)
 * 双语新闻:[https://t.me/shuangyunews_rss](https://t.me/shuangyunews_rss)
-* 法国 国际广播电台:[https://t.me/rfi_rss](https://t.me/rfi_rss)
-* 德国 德国之声:[https://t.me/dw_rss](https://t.me/dw_rss)
-* 澳大利亚 广播公司:[https://t.me/abc_rss](https://t.me/abc_rss)
-* 俄罗斯 卫星通讯社:[https://t.me/ru_rss](https://t.me/ru_rss)
-* 新加坡 联合早报:[https://t.me/sg_rss](https://t.me/sg_rss)
-* 韩国 中央日报:[https://t.me/korea_rss](https://t.me/korea_rss)
-* 日本 日经中文网:[https://t.me/jp_rss](https://t.me/jp_rss)
-* 台湾香港 当地日报:[https://t.me/ttww_rss](https://t.me/ttww_rss)
 * 每日早间新闻:[https://t.me/zaobaoNews](https://t.me/zaobaoNews)
 * 经济信息联播:[https://t.me/eco_cn](https://t.me/eco_cn)
 * Learn SwiftUI:[https://t.me/learnswiftui](https://t.me/learnswiftui)
@@ -1924,18 +1915,15 @@
 * 瞎玩菌:[https://t.me/blindgamer](https://t.me/blindgamer)
 * Tesla China 🅥:[https://t.me/Teslacn](https://t.me/Teslacn)
 
-### 其他
+### 其他机器人
 
 * [这个我知道](https://t.me/keyword_reply_bot) 本机器人能够自动回复关键词对应的内容
 * [这个我删了 Bot](https://t.me/keyworddel_bot) 自动删除’推广 / 广告 / 菠菜’等等消息
 * [Vultr 助手 Bot](https://t.me/vultr_helper_bot) 绑定 Vultr 账户，定时提醒 Vultr 账户的余额和流量不足信息
 * [Telegram 权限管理 Bot](https://t.me/autopm_bot) Telegram 自动管理权限，指定时间自动关闭 / 打开群组权限
 * [TGX - 频道秘书](https://t.me/zh_secretary_bot) Telegram 中文群组索引导航
-* [北极星搜索](https://t.me/PolarisseekBot) Telegram 中文群组索引导航
-* [超级索引](https://t.me/SuperIndexCNBot) Telegram 中文群组频道搜索机器人
 * [超级索引](https://t.me/hao1234bot) Telegram 中文群组频道搜索机器人
 * [TGCN - 群组频道狐](https://t.me/zh_groups_bot) Telegram 中文群组频道搜索机器人
-* [超级搜索](https://t.me/So1234Bot) Telegram 中文群组频道搜索机器人
 * [新频道群组导航](https://t.me/groups_cnbot) 新频道群组导航
 * [Translate Father](https://t.me/TranslateFather_bot) 翻译消息
 * [Yandex.Translate](https://t.me/YTranslateBot) 翻译消息
@@ -1956,7 +1944,6 @@
 * [apkdl_bot](https://t.me/apkdl_bot) Android APK 搜索和下载，输入 App 名即可提供多个来自国外网站 APK 下载链接，点 Preview 可以查看图标
 * [LikeBot](https://t.me/LikeBot) 一个很酷的机器人，用基于表情符号的按钮创建帖子，可以点击表情符号投票.
 * [Instasave_bot](https://t.me/Instasave_bot) 下载 Instagram 和 YouTube 的图片和视频
-* [Creation Date](https://t.me/creationdatebot) 查询你的 tg ID 和注册时间
 * [getidsbot](https://t.me/getidsbot) 查询你的 tg ID 和注册时间
 * [TGSoBot](https://t.me/TGSoBot) Telegram 中文圈内容搜索引擎，主要用于支持官方不友好的中文搜索，有任何资源该引擎可以做到秒回.
 * [TeleMe](https://www.teleme.io/) TeleMe is simple management & analytics software for Telegram communities. TeleMe 是一个方便好用的 Telegram 社群管理和统计 Bot.
