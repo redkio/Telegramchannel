@@ -39,36 +39,41 @@
 | 🍉 吃瓜无限 | [https://t.me/achiguao](https://t.me/achiguao) | 实时分享全网第一个热瓜      |
 | 🍉吃瓜情报局   | [@MrGua88](https://t.me/MrGua88)            | 全華人圈的爆料集散地  |
 
-### Telegram频道推荐
+## 📢 Telegram频道推荐
 
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| A姐分享 | [https://t.me/abskoop](https://t.me/abskoop)|  分享资源、影视、软件和福利    |
-|电报中文助手|[https://t.me/ZWCNC](https://t.me/ZWCNC) |电报汉化及教程|
-| 免费资源 | [https://t.me/freeresource](https://t.me/freeresource)|  各类免费资源    |
-| 程序员分享 | [https://t.me/joinchat/FwAZpxdwmTHP2W1sPydPAQ](https://t.me/joinchat/FwAZpxdwmTHP2W1sPydPAQ) |  技术交流    |
-| 4K影视屋 | [https://t.me/dianying4K](https://t.me/dianying4K)|  4K影视资源   |
-| 豆瓣精选 | [https://t.me/douban_read](https://t.me/douban_read)|  豆瓣内容精选    |
-| 竹新社 | [https://t.me/tnews365](https://t.me/tnews365)|  国内外新闻    |
-| 合租通知 | [https://t.me/hezu2](https://t.me/hezu2)|  合租、软件、资源、中文 |
-|  薅羊毛情报| [https://t.me/BaccanoSoul](https://t.me/BaccanoSoul)|  羊毛情报 |
-|  黑科技| [https://t.me/kkaifenxiang](https://t.me/kkaifenxiang)|  黑科技软件、实用黑技巧 |
-|  科技圈的日常| [https://t.me/misakatech](https://t.me/misakatech)|  科技圈内的大事小事 |
-|  游戏科技外挂| [https://t.me/kjwgpjyxrjk](https://t.me/kjwgpjyxrjk)|  免费公益科技外挂 |
+| **名字**          | **链接**                                                          | **功能描述**                   |
+|------------------|----------------------------------------------------------------|------------------------------|
+| **A姐分享**     | [A姐分享](https://t.me/abskoop)                               | 资源、影视、软件和福利分享     |
+| **电报中文助手** | [电报中文助手](https://t.me/ZWCNC)                           | 电报汉化及教程                 |
+| **免费资源**     | [免费资源](https://t.me/freeresource)                        | 各类免费资源                   |
+| **程序员分享**   | [程序员分享](https://t.me/joinchat/FwAZpxdwmTHP2W1sPydPAQ)    | 技术交流                       |
+| **4K影视屋**     | [4K影视屋](https://t.me/dianying4K)                          | 4K影视资源                     |
+| **豆瓣精选**     | [豆瓣精选](https://t.me/douban_read)                         | 豆瓣内容精选                   |
+| **竹新社**       | [竹新社](https://t.me/tnews365)                              | 国内外新闻                     |
+| **合租通知**     | [合租通知](https://t.me/hezu2)                               | 合租、软件、资源分享            |
+| **薅羊毛情报**   | [薅羊毛情报](https://t.me/BaccanoSoul)                       | 羊毛情报                       |
+| **黑科技**       | [黑科技](https://t.me/kkaifenxiang)                          | 黑科技软件、实用技巧             |
+| **科技圈的日常** | [科技圈的日常](https://t.me/misakatech)                      | 科技圈大事小事                   |
+| **游戏科技外挂** | [游戏科技外挂](https://t.me/kjwgpjyxrjk)                     | 免费公益科技外挂                 |
 
-### 推广50USDT/月
 
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|高端商务                             | [@caomeinv](https://t.me/+E58Tu0c0178zMTIy)          |喝茶把妹已过推特认证    |
-|高端经济                           | [@aibanyou](https://t.me/+pY9VMib2qTc1Y2Qy)          |喝茶把妹已过推特认证   |
+## 💰 推广 50 USDT/月
 
-### 翻墙机场
+| **名字**        | **链接**                                                       | **功能描述**           |
+|---------------|---------------------------------------------------------------|----------------------|
+| **高端商务**   | [@caomeinv](https://t.me/+E58Tu0c0178zMTIy)                  | 喝茶把妹，已通过推特认证 |
+| **高端经济**   | [@aibanyou](https://t.me/+pY9VMib2qTc1Y2Qy)                  | 喝茶把妹，已通过推特认证 |
 
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|可乐云                             | [@可乐云](https://cokecloud.net/#/register?code=PiGzjZ8C)          |老牌高速机场9.9/月  |
-|     跨境Cloud                     | [@跨境Cloud ](https://www.ikuajings.com/auth/register?code=59Yr)          |高速机场   |
+
+
+## 🌏 翻墙机场推荐
+
+| **名字**      | **链接**                                                              | **功能描述**         |
+|-------------|------------------------------------------------------------------|------------------|
+| **可乐云**   | [可乐云](https://cokecloud.net/#/register?code=PiGzjZ8C)        | 老牌高速机场，9.9/月 |
+| **跨境Cloud** | [跨境Cloud](https://www.ikuajings.com/auth/register?code=59Yr) | 高速机场         |
+
+
 
 ### 交易所购买USDT
 
@@ -159,23 +164,24 @@
 | wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付|
 | okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--7744037840)       |可用于店租（Amazon、Shopify、Shope）、广告（Facebook、Google）、云服务、开发者应用、海淘购物等全场景支付。|
 
-#### Telegram电报官方机器人
+## 🤖 Telegram电报官方机器人
 
-| 名字                  | 链接                                                                 | 功能描述                                   |
-| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| Spam Info Bot         | [@SpamBot](https://t.me/SpamBot/)                                   | Telegram账号处理，账号申诉             |
-| BotFather             | [@BotFather](https://t.me/BotFather/)                               | 创建机器人，管理机器人                     |
-| Stickers              | [@Stickers](https://t.me/Stickers/)                                 | 建贴纸包，管理贴纸                       |
-| Telegraph             | [@Telegraph](https://t.me/Telegraph/)                               | 创建管理Telegraph文章                    |
-| Premium Bot           | [@PremiumBot](https://t.me/PremiumBot/)                             | Telegram会员官方机器人                 |
-| Wallet                | [@wallet](https://t.me/wallet/)                                     | Telegram官方钱包机器人                     |
-| Previews              | [@previews](https://t.me/previews/)                                 | Telegram即时预览反馈机器人                 |
-| MTProxy Admin Bot     | [@MTProxybot](https://t.me/MTProxybot/)                             | 创建并管理Telegram MTProxy                 |
-| Transparency Reports  | [@transparency](https://t.me/transparency/)                         | Telegram向政府透露的数据统计               |
-| Webpage Bot           | [@WebpageBot](https://t.me/WebpageBot/)                             | 链接预览更新机器人                         |
-| Verify Bot            | [@VerifyBot](https://t.me/VerifyBot/)                               | 认证你的Telegram频道、群组和机器人         |
-| Username Bot          | [@username_bot](https://t.me/username_bot/)                         | 通过权威认证获取被占用的用户名             |
-| Fragment Auction Alerts | [@fragment](https://t.me/fragment/)                               | Fragment拍卖通知机器人                     |
+| **名字**                | **链接**                                                            | **功能描述**                              |
+|------------------------|------------------------------------------------------------------|------------------------------------------|
+| **Spam Info Bot**      | [@SpamBot](https://t.me/SpamBot/)                               | 处理Telegram账号申诉事务                 |
+| **BotFather**          | [@BotFather](https://t.me/BotFather/)                           | 创建和管理机器人                         |
+| **Stickers**           | [@Stickers](https://t.me/Stickers/)                             | 创建贴纸包并管理贴纸                      |
+| **Telegraph**          | [@Telegraph](https://t.me/Telegraph/)                           | 管理Telegra.ph文章                        |
+| **Premium Bot**        | [@PremiumBot](https://t.me/PremiumBot/)                         | Telegram会员官方机器人                    |
+| **Wallet**            | [@wallet](https://t.me/wallet/)                                 | Telegram官方钱包机器人                    |
+| **Previews**           | [@previews](https://t.me/previews/)                             | 反馈Telegram即时预览功能                  |
+| **MTProxy Admin Bot**  | [@MTProxybot](https://t.me/MTProxybot/)                         | 创建并管理Telegram MTProxy服务器         |
+| **Transparency Reports** | [@transparency](https://t.me/transparency/)                   | 统计Telegram向政府透露的数据             |
+| **Webpage Bot**        | [@WebpageBot](https://t.me/WebpageBot/)                         | 链接预览更新机器人                        |
+| **Verify Bot**         | [@VerifyBot](https://t.me/VerifyBot/)                           | 认证Telegram频道、群组和机器人             |
+| **Username Bot**       | [@username_bot](https://t.me/username_bot/)                     | 通过权威认证获取被占用的用户名             |
+| **Fragment Auction Alerts** | [@fragment](https://t.me/fragment/)                         | Fragment拍卖通知机器人                    |
+
 
 #### 群组管理
 
@@ -660,11 +666,6 @@
 | Data Science,ML & AI Nugget Chats | https://t.me/DatascienceChats | Discussion community for DS... |
 | Data Science, Machine Learning, AI & IOT | https://t.me/KDnuggets | Posts from world's largest ... |
 
-### 京豆
-
-* jdShareCode:[https://t.me/jdShareCode](https://t.me/jdShareCode)
-* PKC皮卡车:[https://t.me/topstyle996](https://t.me/topstyle996)
-* Leeco-雪花社:[https://t.me/xuehuashe](https://t.me/xuehuashe)
 
 ### 脚本
 
@@ -1171,25 +1172,6 @@
 * 64Gram:[https://t.me/tg_x64](https://t.me/tg_x64)
 * telegram.Bot:[https://t.me/pythontelegrambotgroup](https://t.me/pythontelegrambotgroup)
 
-### 地区群
-
-* 深圳:[https://t.me/shenzhenbot?start=join](https://t.me/shenzhenbot?start=join)
-* 深圳:[https://t.me/shenzhentg](https://t.me/shenzhentg)
-* 北京:[https://t.me/beijingz](https://t.me/beijingz)
-* 广州:[https://t.me/GuangzhouIT](https://t.me/GuangzhouIT)
-* 四川:[https://t.me/civhuanglaoxiao](https://t.me/civhuanglaoxiao)
-* 川渝:[https://t.me/chongqing_sichuang](https://t.me/chongqing_sichuang)
-* 西安:[https://t.me/XianCity](https://t.me/XianCity)
-* 南宁:[https://t.me/NanNingTG](https://t.me/NanNingTG)
-* 滕州:[https://t.me/tengzhou](https://t.me/tengzhou)
-* 烟台:[https://t.me/yantaiinfo](https://t.me/yantaiinfo)
-* 湖南:[https://t.me/hunantg](https://t.me/hunantg)
-* 济南:[https://t.me/jinan_tg](https://t.me/jinan_tg)
-* 郑州:[https://t.me/zhengzhoutg](https://t.me/zhengzhoutg)
-* 西安:[https://t.me/joinchat/FY1SJkRF6ubEQzU-3Mq3cw](https://t.me/joinchat/FY1SJkRF6ubEQzU-3Mq3cw)
-* 河南郑州:[https://t.me/hnzzs](https://t.me/hnzzs)
-* 河南周口:[https://t.me/zhoukou](https://t.me/zhoukou)
-* 杭州电报群|杭州茶馆:[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)
 
 ### 其他
 
@@ -1628,26 +1610,27 @@
 * 二手🐴:[https://t.me/SecHorse](https://t.me/SecHorse)
 * 用爱发电俱乐部:[https://t.me/NotionFans](https://t.me/NotionFans)
 
-##### 机器人 Bot
+## 🤖 机器人 Bot
 
-### 官方认证 Bot
+### ✅ 官方认证 Bot
 
-* [BotFather](https://t.me/BotFather) 是所有机器人的 god 了，Telegram 官方管理；可以用它创建机器人和管理机器人，你可以利用机器人 API, 帮你自己很多事情
-* [IFTTT](https://t.me/IFTTT) ifttt 的官方机器人，可以很方便的和 ifttt 里的其他服务连接，比如订阅某个网站的 RSS, 如果有更新就会自动把 RSS 内容推送到这个机器人，减少了频繁刷新网站来获取新的内容
-* [GmailBot](https://t.me/GmailBot) 可以在这里就方便的收发 Gmail
-* [DiscussBot](https://t.me/discussbot) 官方出的评论机器人，可以在频道每条消息下面点击添加评论
-* [MTProxy Admin Bot](https://t.me/MTProxybot) 设置和管理 Telegram MTProto 服务器.
-* [Stickers](https://t.me/Stickers) 使用此机器人创建贴纸并获取贴纸的使用统计数据.
-* [SpamBot](https://t.me/SpamBot) 官方处理 spam 事务的机器人
-* [VerifyBot](https://t.me/VerifyBot) 官方认证账号的机器人
-* [Telegraph](https://t.me/telegraph) This bot can help you log in on Telegra.ph, manage your articles, and get page view statistics.
-* [Previews](https://t.me/previews) Use this bot to leave feedback about webpage previews generated for Telegram’s Instant View feature.
-* [Designers Bot](https://t.me/design_bot) This bot accepts UI layouts and animations intended to improve Telegram. Best contributions are published in @designers
-* [Jobs Bot](https://t.me/jobs_bot) This bot lists career opportunities at Telegram and accepts candidates’ applications. Available at telegram.org/jobs
-* [GDPR Bot](https://t.me/gdprbot) Telegram’s Official GDPR bot.
-* [GameBot](https://t.me/gamebot) I’m a demo bot for the Telegram Gaming Platform. I can get you a few fun sample games to play.
-* [ContestBot](https://t.me/ContestBot) ContestBot is a way for Telegram to hold online competitions and find new members for the Telegram team.
-* [QuizBot](https://t.me/QuizBot) Create a quiz with several multiple choice questions and test your friends.
+- **[BotFather](https://t.me/BotFather)** - Telegram官方管理工具，可用于创建和管理机器人，提供机器人API支持。
+- **[IFTTT](https://t.me/IFTTT)** - IFTTT官方机器人，支持自动化任务，如订阅网站RSS更新并自动推送内容。
+- **[GmailBot](https://t.me/GmailBot)** - 在Telegram中轻松收发Gmail邮件。
+- **[DiscussBot](https://t.me/discussbot)** - 官方评论机器人，可在频道消息下添加评论。
+- **[MTProxy Admin Bot](https://t.me/MTProxybot)** - 用于设置和管理Telegram MTProto服务器。
+- **[Stickers](https://t.me/Stickers)** - 贴纸管理机器人，可创建贴纸并获取使用统计数据。
+- **[SpamBot](https://t.me/SpamBot)** - 官方垃圾信息处理机器人，协助用户管理垃圾消息。
+- **[VerifyBot](https://t.me/VerifyBot)** - 官方认证账号机器人。
+- **[Telegraph](https://t.me/telegraph)** - 管理Telegra.ph文章并获取页面浏览统计信息。
+- **[Previews](https://t.me/previews)** - 反馈Telegram Instant View网页预览功能的机器人。
+- **[Designers Bot](https://t.me/design_bot)** - 供Telegram用户提交UI布局和动画建议，优秀贡献发布至@designers频道。
+- **[Jobs Bot](https://t.me/jobs_bot)** - Telegram官方招聘信息机器人，接受求职申请。
+- **[GDPR Bot](https://t.me/gdprbot)** - Telegram的官方GDPR合规管理机器人。
+- **[GameBot](https://t.me/gamebot)** - Telegram游戏平台演示机器人，提供样本游戏供用户体验。
+- **[ContestBot](https://t.me/ContestBot)** - 组织Telegram在线竞赛并发现新团队成员。
+- **[QuizBot](https://t.me/QuizBot)** - 创建带有多项选择题的测验，与朋友互动。
+
 
 ### 其他
 
@@ -2060,9 +2043,14 @@
 * [Telegram Bot Store](https://storebot.me/)
 * [Telegram Bots](https://blog.rawstack.co/post/telegram-bots)
 
-#### 参考资料
+## 📌 参考资料
 
-- [Telegram Bot：@BotsArchiveBot](https://t.me/BotsArchiveBot)
-- [Search Telegram Bots](https://botlist.infotelbot.com/) 一个按类型查找电报机器人网站
-- [BotoStore](https://botostore.com/) 一个专门收录telegram bot的国外网站，过滤了垃圾邮件和成人内容的bot
-- [BotsArchive](https://botsarchive.com/) Telegram机器人档案，不收录成人内容的bottelegram频道：[BotsArchive](https://t.me/BotsArchive)
+### 🔍 Telegram 机器人相关资源
+
+- **[@BotsArchiveBot](https://t.me/BotsArchiveBot)** - Telegram机器人档案，收录各种机器人信息。
+- **[Search Telegram Bots](https://botlist.infotelbot.com/)** - 一个按类型查找电报机器人的网站，方便查找不同类别的机器人。
+- **[BotoStore](https://botostore.com/)** - 收录Telegram Bot的国外平台，已过滤垃圾邮件和成人内容。
+- **[BotsArchive](https://botsarchive.com/)** - 专门收录Telegram机器人的档案，不收录成人内容。
+- **[BotsArchive Telegram频道](https://t.me/BotsArchive)** - Telegram频道，定期更新机器人信息。
+
+
