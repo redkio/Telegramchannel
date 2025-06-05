@@ -255,11 +255,7 @@
 | 入群验证bot      | [@shieldy_bot](https://t.me/shieldy_bot)       | 入群验证bot  |
 | 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
 
-#### 看门机器人
 
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 看门机器人      | [@WatchDoorBot](https://t.me/WatchDoorBot)       | 可禁止发送指定类型的信息,用于避免恶意举报,官方地址https://hackmd.io/s/BkwAIgrL7  |
 
 #### 昵称机器人
 
@@ -356,10 +352,17 @@
 | 删除欢迎信息      | [@nohello_robot](https://t.me/nohello_robot)       | 删除欢迎信息  |
 
 
-## 金融相关
+## 金融相关群组
 
 | 名称 | 频道ID | 简介 |
 |-------|--------|------|
+| 金十数据 闪电资讯 | https://tgdriver.com/sites/453.html | 实时推送【金十数据】 7x24小... |
+| 美卡交流 | https://t.me/joinchat/KieX1xUIH-3W8s_hYPUyXg | 群内骂脏话、聊政治、黑产、... |
+| 跨境支付知多少 | https://t.me/+Vfd5p3CJEcPwafnb | 本群是专业走资群。谈论政治... |
+| TangTalk官方小喇叭 | https://t.me/tangtalknews | TangTalk官方小喇叭，欢迎关注 |
+| 85.60×53.98卡粉订阅/提醒 | https://t.me/DocOfCard | 85.60×53.98卡粉群：@DocOfCa... |
+| 走资世界🅥news | https://t.me/banktoworldnews | 私聊都是骗子！ 涉及黄、黑... |
+| 数字货币安全出入金交流 | https://t.me/joinchat/AYS860xmKnoyZWRk | 本群主要讨论数字货币安全出... |
 | 币圈日报 | https://t.me/bidaily | 币圈日报-每日最前沿的币圈新闻资讯 |
 | 币安官方中文群 | https://t.me/BinanceChinese | 币安官方中文TG群 |
 | 欧易OKX官方中文群 | https://t.me/OKXGroup_CN | 本群为唯一官方指定中文社群 |
@@ -379,13 +382,6 @@
 | 金十数据 | https://t.me/jin10data | 金十数据资讯推送 |
 | 财经慢报 | https://t.me/Financial_Express | 附属群组 @Financial_Express... |
 | ⚡️ 7×24投资快讯 | https://t.me/golden_wind_news | 24 小时投资相关的快讯 |
-| 金十数据 闪电资讯 | https://tgdriver.com/sites/453.html | 实时推送【金十数据】 7x24小... |
-| 美卡交流 | https://t.me/joinchat/KieX1xUIH-3W8s_hYPUyXg | 群内骂脏话、聊政治、黑产、... |
-| 跨境支付知多少 | https://t.me/+Vfd5p3CJEcPwafnb | 本群是专业走资群。谈论政治... |
-| TangTalk官方小喇叭 | https://t.me/tangtalknews | TangTalk官方小喇叭，欢迎关注 |
-| 85.60×53.98卡粉订阅/提醒 | https://t.me/DocOfCard | 85.60×53.98卡粉群：@DocOfCa... |
-| 走资世界🅥news | https://t.me/banktoworldnews | 私聊都是骗子！ 涉及黄、黑... |
-| 数字货币安全出入金交流 | https://t.me/joinchat/AYS860xmKnoyZWRk | 本群主要讨论数字货币安全出... |
 | 无卡不欢订阅频道 | https://t.me/cardfans | 本頻道为无卡不欢订阅频道，... |
 | 无卡不欢交流群 | https://t.me/cardfansgroup | 今天睡地板，明天当老板！加... |
 | 逍遥跨境 | https://t.me/xiaoyaoxi | 讨论群：https://t.me/sugarf... |
@@ -395,7 +391,7 @@
 | 小熊猫的交易之路 | https://t.me/redPandaStock | 本频道用于吹水和讨论今晚吃... |
 | 美股频道 Stock USA | https://t.me/mgstock | Discuss and Research Stocks... |
 
-## 社群
+## 各类社群
 
 | 名称 | 频道ID | 简介 |
 |-------|--------|------|
@@ -403,6 +399,26 @@
 | Vultr 用户群 | https://t.me/vultr_group | Vultr 用户群，非官方 群规 * 禁止传播谣言/盗版 * 禁止撕逼 (谩骂/人身攻击等) * 禁止讨论免流/黄赌毒/宗教... |
 | NewlearnerのIT社群 | https://t.me/NewlearnerGroup | 【注意】加群需经管理同意，完善头像、昵称、简介更容易通过 Main Topics：以 IT 话题为主，包括但不局限�... |
 | 科技圈🎗の 茶馆 | https://t.me/zaihuachat | 【莫談國事】 • 禁止推广/黑产/刷屏/色情/NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳�... |
+| Here内测群 | https://t.me/HereApp | Get invite code @Here02 - Channel @HereChannel ... |
+| VNoteX | https://t.me/vnotex | VNote Official Group A pleasant note-taking platfo... |
+| GBox官方交流群 | https://t.me/GBoxTG | GBox是一款免越狱可给ipa签名的工具，�... |
+| GBox Official | https://t.me/GBoxOfficial | GBox is a no jailbreak required re-sign tool for i... |
+| Transno | https://t.me/transnousergroup | Transno - Outlines, Notes, Mind Maps |
+| FastClip \| Stay Sponsors | https://t.me/fastclipchat | https://fastclip.app |
+| Stack&Conta Insiders | https://t.me/stack_app | 无描述 |
+| CC来电拦截 | https://t.me/ccblocker | CC来电拦截。这个软件我从来都没打算... |
+| 时光 | https://t.me/sgxxqg | 无描述 |
+| Hamibot | https://t.me/HamibotChat | 网站首页：https://hamibot.com 国内站点：... |
+| Anti Revoke Chat | https://t.me/AntiRevokeChat | 无描述 |
+| 简悦 - SimpRead | https://t.me/simpreadgroup | 嗨，谢谢使用简悦，欢迎加入简悦「�... |
+| flomo浮墨卡片笔记 | https://t.me/flomoapp | flomoapp.com 官方群 |
+| ZOE Group | https://t.me/ZOEAPP | 无描述 |
+| DEVONthink Chinese | https://t.me/DEVONthink | DEVONthink用户交流，兼DT2简体中文语言�... |
+| Oh my tickets! | https://t.me/Oh_my_tickets | Oh why my tickets listed he... |
+| mjj18 | https://t.me/mjj18 | 带镜像地址的 Hostloc 推送频道 |
+| 西柚论坛新帖推送频道 | https://t.me/xiu_news | 欢迎大家加入西柚论坛新帖推... |
+| 1024社区 \| 1024.day | https://t.me/Hello_1024 | 这是一个分享VPS资讯以及Linu... |
+| 机界 | https://t.me/serveruniverse | 主机世界，收集你需要知道的... |
 | 科技圈🎗の 茶馆 | https://t.me/GoogleFans | 【莫談國事】 • 禁止推广/黑产/刷屏/色情/NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳�... |
 | 逗比据地根 | https://t.me/doubi | 无描述 |
 | 中文输入法爱好者群 | https://t.me/IME_zhCN | 无描述 |
@@ -580,26 +596,6 @@
 | VShareCloud | https://t.me/VShareCloud | 无描述 |
 | Telegreat Desktop 中文討論區 (Mandarin Chat) | https://t.me/TelegreatX | 已停止開發，請改用 @tg_x64 |
 | 小点播放器[请自签iplayr使用] | https://t.me/dotplayer | 开发者账号被封，一年后再和苹果沟�... |
-| Here内测群 | https://t.me/HereApp | Get invite code @Here02 - Channel @HereChannel ... |
-| VNoteX | https://t.me/vnotex | VNote Official Group A pleasant note-taking platfo... |
-| GBox官方交流群 | https://t.me/GBoxTG | GBox是一款免越狱可给ipa签名的工具，�... |
-| GBox Official | https://t.me/GBoxOfficial | GBox is a no jailbreak required re-sign tool for i... |
-| Transno | https://t.me/transnousergroup | Transno - Outlines, Notes, Mind Maps |
-| FastClip \| Stay Sponsors | https://t.me/fastclipchat | https://fastclip.app |
-| Stack&Conta Insiders | https://t.me/stack_app | 无描述 |
-| CC来电拦截 | https://t.me/ccblocker | CC来电拦截。这个软件我从来都没打算... |
-| 时光 | https://t.me/sgxxqg | 无描述 |
-| Hamibot | https://t.me/HamibotChat | 网站首页：https://hamibot.com 国内站点：... |
-| Anti Revoke Chat | https://t.me/AntiRevokeChat | 无描述 |
-| 简悦 - SimpRead | https://t.me/simpreadgroup | 嗨，谢谢使用简悦，欢迎加入简悦「�... |
-| flomo浮墨卡片笔记 | https://t.me/flomoapp | flomoapp.com 官方群 |
-| ZOE Group | https://t.me/ZOEAPP | 无描述 |
-| DEVONthink Chinese | https://t.me/DEVONthink | DEVONthink用户交流，兼DT2简体中文语言�... |
-| Oh my tickets! | https://t.me/Oh_my_tickets | Oh why my tickets listed he... |
-| mjj18 | https://t.me/mjj18 | 带镜像地址的 Hostloc 推送频道 |
-| 西柚论坛新帖推送频道 | https://t.me/xiu_news | 欢迎大家加入西柚论坛新帖推... |
-| 1024社区 \| 1024.day | https://t.me/Hello_1024 | 这是一个分享VPS资讯以及Linu... |
-| 机界 | https://t.me/serveruniverse | 主机世界，收集你需要知道的... |
 | hostloc新帖 | https://t.me/hostlocpusher | 内容预览与直达链接 |
 | MJJ社区新帖推送 | https://t.me/mjjpro | Hostloc[美国VPS综合讨论]，... |
 | hostlo新帖推送预览版 | https://t.me/hostlocpreview | 推送hostloc新帖全部内容 |
@@ -693,6 +689,22 @@
 * ImmTelecom:[https://t.me/immtelecom_chat](https://t.me/immtelecom_chat)
 * 科学上网技术研究会:[https://t.me/kxswjs](https://t.me/kxswjs)
 * 科学上网，科技分享:[https://t.me/qiankeji](https://t.me/qiankeji)
+* 几鸡 - 小圈自用公益机场:[https://t.me/lisuanlaoji](https://t.me/lisuanlaoji)
+* vAgent 云计算加速服务:[https://t.me/crossgreatfirewall](https://t.me/crossgreatfirewall)
+* ss panel v3 mod 非官方水群:[https://t.me/SSUnion](https://t.me/SSUnion)
+* 小布吉岛闲聊群:[https://t.me/bujidaochat](https://t.me/bujidaochat)
+* OKAB3 吹水:[https://t.me/OKAB3Script](https://t.me/OKAB3Script)
+* Official Geph Users 迷霧通官方用戶群:[https://t.me/gephusers](https://t.me/gephusers)
+* ExCloud:[https://t.me/excloud](https://t.me/excloud)
+* AK’s Tech Studio:[https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ](https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ)
+* 章鱼哥的 SSPanel 之家:[https://t.me/woaizyg](https://t.me/woaizyg)
+* 枫之谷加速:[https://t.me/fzgjs](https://t.me/fzgjs)
+* VPS 信号旗情报本部:[https://t.me/vps_xinhaoqi](https://t.me/vps_xinhaoqi)
+* 小火箭 / 圈叉非官方群，Shadowrocke/QX:[https://t.me/shadowrocket_unofficial](https://t.me/shadowrocket_unofficial)
+* 中信加速器 VPN 官方群:[https://t.me/zxfast](https://t.me/zxfast)
+* 火箭写书:[https://t.me/woicesu](https://t.me/woicesu)
+* SSRSpeed N 使用交流:[https://t.me/SSRSpeedN](https://t.me/SSRSpeedN)
+* iQZone:[https://t.me/iQ_Zone](https://t.me/iQ_Zone)
 * 老王用户群:[https://t.me/wangvpn_users](https://t.me/wangvpn_users)
 * 老王讨论群:[https://t.me/wangvpn_user_chat](https://t.me/wangvpn_user_chat)
 * 几鸡:[https://t.me/ngcss](https://t.me/ngcss)
@@ -743,22 +755,7 @@
 * Kitsunebi 交流:[https://t.me/Kitsunebi_funs](https://t.me/Kitsunebi_funs)
 * 精品免费翻墙 app 推荐:[https://t.me/fuckyougfw](https://t.me/fuckyougfw)
 * SSTap Rule:[https://t.me/SSTapRule](https://t.me/SSTapRule)
-* 几鸡 - 小圈自用公益机场:[https://t.me/lisuanlaoji](https://t.me/lisuanlaoji)
-* vAgent 云计算加速服务:[https://t.me/crossgreatfirewall](https://t.me/crossgreatfirewall)
-* ss panel v3 mod 非官方水群:[https://t.me/SSUnion](https://t.me/SSUnion)
-* 小布吉岛闲聊群:[https://t.me/bujidaochat](https://t.me/bujidaochat)
-* OKAB3 吹水:[https://t.me/OKAB3Script](https://t.me/OKAB3Script)
-* Official Geph Users 迷霧通官方用戶群:[https://t.me/gephusers](https://t.me/gephusers)
-* ExCloud:[https://t.me/excloud](https://t.me/excloud)
-* AK’s Tech Studio:[https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ](https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ)
-* 章鱼哥的 SSPanel 之家:[https://t.me/woaizyg](https://t.me/woaizyg)
-* 枫之谷加速:[https://t.me/fzgjs](https://t.me/fzgjs)
-* VPS 信号旗情报本部:[https://t.me/vps_xinhaoqi](https://t.me/vps_xinhaoqi)
-* 小火箭 / 圈叉非官方群，Shadowrocke/QX:[https://t.me/shadowrocket_unofficial](https://t.me/shadowrocket_unofficial)
-* 中信加速器 VPN 官方群:[https://t.me/zxfast](https://t.me/zxfast)
-* 火箭写书:[https://t.me/woicesu](https://t.me/woicesu)
-* SSRSpeed N 使用交流:[https://t.me/SSRSpeedN](https://t.me/SSRSpeedN)
-* iQZone:[https://t.me/iQ_Zone](https://t.me/iQ_Zone)
+
 
 ### 软件
 
