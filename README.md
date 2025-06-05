@@ -225,34 +225,39 @@
 | Approve By Poll       | [@KimmyXYC_Approve_By_Poll_bot](https://t.me/KimmyXYC_Approve_By_Poll_bot/) | 通过投票决定是否同意新成员的入群申请       |
 | Cleaning Toolbox      | [@CleaningToolboxBot](https://t.me/CleaningToolboxBot/)             | 自动踢出所有群组成员                       |
 
-#### 频道分析机器人
+## 🤖 Telegram频道管理机器人
 
-| 名字                  | 链接                                                                 | 功能描述                                   |
-| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| Channel Help          | [@chelpbot](https://t.me/chelpbot/)                                 | 轻松管理频道，定时发布帖                 |
-| LikeBot               | [@like](https://t.me/like/)                                         | 为频道帖子创建表情回应按钮                 |
-| DiscussBot            | [@discussbot](https://t.me/discussbot/)                             | 为频道所有帖子添加评论按钮                 |
-| React Bot             | [@ReactBot](https://t.me/ReactBot/)                                 | 为频道帖子添加表情回应和评论               |
-| Telegram Analytics Bot| [@tg_analytics_bot](https://t.me/tg_analytics_bot/)                 | Telegram统计分析机器人                     |
-| Telemetrio            | [@telemetr_io_bot](https://t.me/telemetr_io_bot/)                   | Telemetrio官方机器人                       |
-| TGStat Bot            | [@TGStat_Bot](https://t.me/TGStat_Bot/)                             | TGStat数据分析机器人                       |
-| Combot                | [@combot](https://t.me/combot/)                                     | Telegram 群组的最佳社区管理服务。管理、分析、触发器等 |
+### 📊 频道分析与数据统计
+| **名字**                  | **链接**                                                  | **功能描述**                   |
+|--------------------------|------------------------------------------------------|------------------------------|
+| **Telegram Analytics Bot** | [@tg_analytics_bot](https://t.me/tg_analytics_bot/) | Telegram统计分析机器人         |
+| **Telemetrio**           | [@telemetr_io_bot](https://t.me/telemetr_io_bot/)    | Telemetrio官方机器人           |
+| **TGStat Bot**           | [@TGStat_Bot](https://t.me/TGStat_Bot/)              | TGStat数据分析机器人           |
+| **Combot**               | [@combot](https://t.me/combot/)                      | 群组最佳管理服务，包含管理、分析、触发器等 |
 
-#### 欢迎机器人
+### ✍️ 频道管理与互动
+| **名字**            | **链接**                                             | **功能描述**                |
+|--------------------|-------------------------------------------------|--------------------------|
+| **Channel Help**   | [@chelpbot](https://t.me/chelpbot/)              | 轻松管理频道，支持定时发布帖 |
+| **LikeBot**        | [@like](https://t.me/like/)                      | 为频道帖子创建表情回应按钮 |
+| **DiscussBot**     | [@discussbot](https://t.me/discussbot/)          | 为频道所有帖子添加评论按钮 |
+| **React Bot**      | [@ReactBot](https://t.me/ReactBot/)              | 为频道帖子添加表情回应和评论 |
 
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 欢迎机器人      | [@RealApolloBot](https://t.me/RealApolloBot)       | 欢迎机器人  |
-| 欢迎机器人      | [@WTFisBot](https://t.me/WTFisBot)       | 欢迎机器人  |
-| 欢迎机器人   | [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot)        | 欢迎机器人      |
+### 🎉 欢迎机器人
+| **名字**                   | **链接**                                              | **功能描述**     |
+|--------------------------|---------------------------------------------------|--------------|
+| **Real Apollo Bot**      | [@RealApolloBot](https://t.me/RealApolloBot)      | 迎接新成员     |
+| **WTFisBot**             | [@WTFisBot](https://t.me/WTFisBot)               | 欢迎机器人     |
+| **Jh0ker Welcome Bot**   | [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot) | 群组欢迎机器人 |
 
-#### 广告拦截
+### 🚫 广告拦截与防护
+| **名字**                | **链接**                                                  | **功能描述**                           |
+|----------------------|------------------------------------------------------|--------------------------------------|
+| **长名广告专杀**     | [@adnamekillerbot](https://t.me/adnamekillerbot)     | 处理长用户名广告                      |
+| **限制新群员**       | [@AutoRestrictBot](https://t.me/AutoRestrictBot)     | 限制新群成员的权限                     |
+| **删除进出群消息**   | [@AntiServiceMessageBot](https://t.me/AntiServiceMessageBot) | 删除群组和超级群组中的加入/离开消息       |
 
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 长名广告专杀      | [@adnamekillerbot](https://t.me/adnamekillerbot)       | 长名专杀  |
-| 限制新群员      | [@AutoRestrictBot](https://t.me/AutoRestrictBot)       | 限制新群员  |
-| 删除进出群消息   | [@AntiServiceMessageBot](https://t.me/AntiServiceMessageBot)        |删除群组和超级群组中的加入/离开消息 |
+
 
 #### 协助管理群组机器人验证
 
