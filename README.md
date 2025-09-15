@@ -25,12 +25,11 @@
 
 | **名字**        | **链接**                                                                  | **功能描述**                           |
 |---------------|------------------------------------------------------------------|--------------------------------------|
-| **极搜JiSo**  | [@jiso](https://t.me/jiso?start=a_7744037840)                   | 搜索关键词找群、频道、电影           |
+| **神马搜索(签到有收益)** | [@smss](https://t.me/smss?start=spread_7190168235)       | 发送关键词搜索关联群组与频道资源        |
 | **SOSO机器人** | [@soso](https://t.me/soso?start=a_7744037840)                   | 搜索关键词寻找群组、频道              |
-| **极搜JiSou**  | [@jisou](https://t.me/jisou?start=a_7744037840)                 | 搜索关键词帮你找到电报群、频道、视频、音乐 |
-| **i快搜**     | [@ikuaisobot](https://t.me/ikuaisobot?start=7744037840)         | 关键词搜索。                           |
-| **神马搜索(签到有收益)** | [@smss](https://t.me/smss?start=spread_7744037840)       | 发送关键词搜索关联群组与频道资源        |
-| **Super搜索** | [@Super](https://t.me/Super?start=ref-7744037840)               | 查找群组、频道                        |
+| **极搜JiSou**  | [@jisou](https://t.me/jisou?start=a_7190168235)                 | 搜索关键词帮你找到电报群、频道、视频、音乐 |
+| **快搜**     | [@ikuaisobot](https://t.me/kuai?start=a_3K2LLXB)         | 关键词搜索。                           |
+| **Super搜索** | [@Super](https://t.me/Super?start=ref-7190168235)               | 查找群组、频道                        |
 | **北极星搜索** | [@PolarisseekBot](https://t.me/PolarisseekBot)                 | 查找群组、频道                        |
 | **狗狗索引**   | [@DogeIndexBot](https://t.me/DogeIndexBot?start=DGB-fc0deea107b3435595f9296307df8da2) | 查找群组、频道 |
 | **快搜索**    | [@kuai](https://t.me/kuai?start=a_7744037840)               | 查找群组、频道，音乐或机器人 |
