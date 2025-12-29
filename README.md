@@ -5,7 +5,7 @@
  <a>Telegram中文频道:</a> <a href="https://t.me/ZWCNC">@ZWCNC</a>  官方网站:<a href="https://telegrambots.cc">https://telegrambots.cc</a>  商务在推特帖子留言:<a href="https://x.com/Dashanwan">@大山万</a><br>
   🔯电报用户名字最好使用中文，由于协议号泛滥，英文名字容易被风控封号🔯<br>
   <br><br><a href="https://github.com/redkio/Telegramchannel" >     <img src="https://raw.githubusercontent.com/redkio/Telegramchannel/refs/heads/main/image/telegram%40ZWCNC.png" alt="Telegram Image"> </a>
-  <br>🌟电报资源整合频道🌟<br>
+  <br>🌟电报资源整合频道：<a href="https://t.me/ticnc" > 🌟<br>
 
 </div>
 
