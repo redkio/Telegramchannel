@@ -48,7 +48,7 @@
 | **名字**          | **链接**                                                  | **功能描述**              |
 |------------------|------------------------------------------------------|------------------------|
 | **吃瓜无限**    | [吃瓜无限](https://t.me/achiguao)                    | 实时分享全网第一个热瓜   |
-| **大人资源群**  | [@EdgeCOS](https://t.me/Edgecos)                     | 全华人圈的爆料集散地     |
+| **大人资源群**  | [@EdgeCOS](https://t.me/Edgecos)                     | 全华人圈的教学找资源     |
 
 
 ## 📢 Telegram频道推荐
@@ -84,18 +84,18 @@
 | **名字**      | **链接**                                                              | **功能描述**         |
 |-------------|------------------------------------------------------------------|------------------|
 | **可乐云**   | [可乐云](https://cokecloud.net/#/register?code=PiGzjZ8C)        | 老牌高速机场，9.9/月 |
-| **跨境Cloud** | [跨境Cloud](https://www.ikuajings.com/auth/register?code=59Yr) | 高速机场         |
+| **biubiu云** | [biubiu云](https://biubiux.online/#/register?code=zU000yQ8) | 专线机场 高速         |
+| **nicecloud** | [nicecloud云](https://nicecloud.co/register?aff=F5jujCkn) | 专线机场 高速         |
+| **龙猫云** | [龙猫云](https://dashanwan7.lmvipaff01.cc/register?aff=rDISuhqe) | 专线机场 高速         |
 
+### 电报广告位
 
-
-### 交易所购买USDT
-
-**注意一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码**
+**注意一50U 长久位**
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| 币安    |   [https://www.binance.com](https://www.marketwebb.me/join?ref=Z2GAHACS)   | 币安交易所(持有bnb减免20%手续费)
-| 欧易OKX    |   [https://www.okx.com](https://www.ouxyi.link/ul/6CngT5?channelId=OKCCNC)   |      欧易交易所(减免20%手续费)|
+| XX    |   [https://www.binance.com](https://www.marketwebb.me/join?ref=Z2GAHACS)   | 币安交易所(持有bnb减免20%手续费)
+| XX    |   [有缘人](https://www.marketwebb.me/join?ref=Z2GAHACS)   | XXXXXXXXXXXXXX)
 
 ## 电报切换中文语言 [@ZWCNC](https://t.me/ZWCNC)
 
@@ -105,38 +105,10 @@
 
 视频参考：https://youtu.be/EOO465dcTPg?si=wUmrFzFBe_h5baqG
 
-## +86 无法接收验证码问题【四种方法】
 
-
-
-### 1. 开通国际漫游
-
-| 运营商 | 短信内容 | 发送号码 |
-|--------|----------|----------|
-| **移动**   | 发送“11111” | 10629349125637402 |
-| **电信**   | 发送“11111” | 1068299708 |
-| **联通**   | 发送“11111” | 106829970757 |
-
-### 2. 使用TelegramX
-
-- [TelegramX 官方下载](https://play.google.com/store/apps/details?id=org.thunderdog.challegram)
-- [TelegramX 安卓下载（免 Google Play）](https://telegram-x.cn.uptodown.com/android)
-
-### 3. 使用接码平台
+###  接码平台
 
 - [SMS 接码平台](https://sms-activate.io/?ref=12712861)
-
-### 4.换VPN机场节点
-
-开全局模式，不用vpn。使用代理+机场节点
-例如：ClashMeta + 机场节点 / V2Ray+机场节点
-
-安卓ClashMeta下载：[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-机场：[可乐云](https://cokecloud.net/#/register?code=PiGzjZ8C)
-
-安卓V2RayNG下载：[V2RayNG](https://github.com/2dust/v2rayNG/releases)
-机场：[可乐云](https://cokecloud.net/#/register?code=PiGzjZ8C)
-
 
 
 ### 搞笑图
