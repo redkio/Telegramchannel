@@ -94,8 +94,8 @@
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| XX    |   [有缘人联系](https://www.marketwebb.me/join?ref=Z2GAHACS)   | XXXXXXXXXXXXXX
-| XX    |   [有缘人联系](https://www.marketwebb.me/join?ref=Z2GAHACS)   | XXXXXXXXXXXXXX
+| XX    |   [有缘人联系](https://t.me/+2CWIubBv4XAyY2Ri)   | XXXXXXXXXXXXXX
+| XX    |   [有缘人联系](https://t.me/+2CWIubBv4XAyY2Ri)   | XXXXXXXXXXXXXX
 
 ## 电报切换中文语言 [@ZWCNC](https://t.me/ZWCNC)
 
