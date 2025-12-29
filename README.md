@@ -1,18 +1,11 @@
 # Telegram频道机器人目录
 <div align="center">
-【Telegram电报】9999+ 优质Telegram频道、Telegram群组、Telegram电报机器人，Telegram搜索群组、电报频道、Telegram搜索机器人，整理Telegram目录，让您轻松玩转Telegram。<br>
+【Telegram电报】9999+ 优质Telegram频道、电报搜索群、Telegram电报机器人，Telegram搜索群组、电报频道、Telegram搜索机器人，整理Telegram目录表。<br>
   🌟请确保遵守当地法律法规，严禁中国大陆用户使用。任何因使用本项目产生的法律问题均由用户自行承担，与本项目无关。🌟<br>
  <a>Telegram中文频道:</a> <a href="https://t.me/ZWCNC">@ZWCNC</a>  官方网站:<a href="https://telegrambots.cc">https://telegrambots.cc</a>  商务在推特帖子留言:<a href="https://x.com/Dashanwan">@大山万</a><br>
   🔯电报用户名字最好使用中文，由于协议号泛滥，英文名字容易被风控封号🔯<br>
   <br><br><a href="https://github.com/redkio/Telegramchannel" >     <img src="https://raw.githubusercontent.com/redkio/Telegramchannel/refs/heads/main/image/telegram%40ZWCNC.png" alt="Telegram Image"> </a>
-  🌟电报是一种通信工具，能够实现快速、安全的信息传递。其主要功能包括：
-
-即时通讯：用户可以发送文本、图片、视频及语音消息，支持单人和群组聊天。
-端到端加密：确保用户隐私安全，防止信息被第三方窃取。
-多设备同步：支持在手机、平板、电脑等设备间无缝使用。
-频道和群组：用户可以创建频道发布消息，或加入群组讨论。
-机器人支持：可以使用自动化机器人完成任务，如信息推送、客服支持等。
-请勿加政治有关的群🌟<br>
+  <br>🌟电报资源整合频道🌟<br>
 
 </div>
 
