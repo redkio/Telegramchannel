@@ -1,7 +1,7 @@
 # Telegram频道机器人目录
 <div align="center">
 【Telegram电报】9999+ 优质Telegram频道、电报搜索群、Telegram电报机器人，Telegram搜索群组、电报频道、Telegram搜索机器人，整理Telegram目录表。<br>
-  🌟请确保遵守当地法律法规，严禁中国大陆用户使用。任何因使用本项目产生的法律问题均由用户自行承担，与本项目无关。🌟<br>
+  <br>
  <a>Telegram中文频道:</a> <a href="https://t.me/ZWCNC">@ZWCNC</a>  官方网站:<a href="https://telegrambots.cc">https://telegrambots.cc</a>  商务在推特帖子留言:<a href="https://x.com/Dashanwan">@大山万</a><br>
   🔯电报用户名字最好使用中文，由于协议号泛滥，英文名字容易被风控封号🔯<br>
   <br><br><a href="https://github.com/redkio/Telegramchannel" >     <img src="https://raw.githubusercontent.com/redkio/Telegramchannel/refs/heads/main/image/telegram%40ZWCNC.png" alt="Telegram Image"> </a>
