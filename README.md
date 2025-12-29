@@ -90,12 +90,12 @@
 
 ### 电报广告位
 
-**注意一50U 长久位**
+**注意一50U 长久位置（6位）**
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| XX    |   [https://www.binance.com](https://www.marketwebb.me/join?ref=Z2GAHACS)   | 币安交易所(持有bnb减免20%手续费)
-| XX    |   [有缘人](https://www.marketwebb.me/join?ref=Z2GAHACS)   | XXXXXXXXXXXXXX)
+| XX    |   [有缘人联系](https://www.marketwebb.me/join?ref=Z2GAHACS)   | XXXXXXXXXXXXXX
+| XX    |   [有缘人联系](https://www.marketwebb.me/join?ref=Z2GAHACS)   | XXXXXXXXXXXXXX
 
 ## 电报切换中文语言 [@ZWCNC](https://t.me/ZWCNC)
 
