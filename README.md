@@ -106,9 +106,7 @@
 视频参考：https://youtu.be/EOO465dcTPg?si=wUmrFzFBe_h5baqG
 
 
-###  接码平台
 
-- [SMS 接码平台](https://sms-activate.io/?ref=12712861)
 
 
 ### 搞笑图
