@@ -41,7 +41,7 @@
 | **电报查档机器人** | [@查信息](https://t.me/aisgk11111bot?start=NzY3MTU3MzExMQ==)                   | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付 |
 | **电报账号购买**   | [账号鸭](https://www.zhanghaoya.com/?from=13297)                         | 每天整点准时更新免费高速节点                    |
 | **撸空投💰币圈💰Web3** | [@tglukongtou](https://t.me/tglukongtou)                   | 💰 分享最新前沿的空投资讯，奔向财务自由之路      |
-| **GMGN抓金狗百倍币** | [@gmgnaibot](https://t.me/gmgnaibot)                       | 💰 GMGN是加密货币领域最强大的数据分析平台        |
+| **电报会员代开机器人** | [@TGVIPCNBOT](https://t.me/TGVIPCNBOT)                       | 💰 电报会员代开-星星购买        |
 
 ### 🍉 娱乐与爆料
 
