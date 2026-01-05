@@ -1,4 +1,4 @@
-# Telegram频道机器人目录 【Telegram电报】9999+ 优质Telegram频道、电报搜索群、Telegram电报机器人，Telegram搜索群组、电报频道、Telegram搜索机器人，整理Telegram目录表。
+# 【Telegram电报】9999+ 优质Telegram频道、电报搜索群、Telegram电报机器人，Telegram搜索群组、电报频道、Telegram搜索机器人，整理Telegram目录表。
 <div align="center">
 【Telegram电报】9999+ 优质Telegram频道、电报搜索群、Telegram电报机器人，Telegram搜索群组、电报频道、Telegram搜索机器人，整理Telegram目录表。<br>
   <br>
