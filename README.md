@@ -73,6 +73,9 @@
 | **黑科技**       | [黑科技](https://t.me/kkaifenxiang)                          | 黑科技软件、实用技巧             |
 | **科技圈的日常** | [科技圈的日常](https://t.me/misakatech)                      | 科技圈大事小事                   |
 | **游戏科技外挂** | [游戏科技外挂](https://t.me/kjwgpjyxrjk)                     | 免费公益科技外挂                 |
+| **每日沙雕墙** | [每日沙雕墙](https://t.me/woshadiao)                   | 搞笑沙雕图和沙雕发言                 |
+| **电影里的春光** | [电影里的春光](https://t.me/NudefilmsTV)                   | 传说中电影里的刹那瞬间                |
+| **简中互联网废物大赏** | [简中互联网废物大赏](https://t.me/fucku_idiot)                   | 中文互联网【有乐子】的各种废物贵物                |
 
 
 ## 💰 推广 50 USDT/月
@@ -102,9 +105,7 @@
 | XX    |   [有缘人联系](https://t.me/+2CWIubBv4XAyY2Ri)   | XXXXXXXXXXXXXX
 | XX    |   [有缘人联系](https://t.me/+2CWIubBv4XAyY2Ri)   | XXXXXXXXXXXXXX
 
-## 电报切换中文语言 [@ZWCNC](https://t.me/ZWCNC)
 
-视频参考：https://youtu.be/pGHmActjauE?si=BnR-WkI1XGWXLxR6
 
 ## 电报安全注意事项【以免喝茶】 [@ZWCNC](https://t.me/zwcnc/22)
 
@@ -143,14 +144,14 @@
 
 [Oh CN ZZ:ohcnzz](https://t.me/ohcnzz)  @ohcnzz
 
-[简中互联网废物大赏](https://t.me/fucku_idiot)  以生活废物为主要内容，包括但不限于土味/无常识/文盲/民科/巨婴行为等。旨在提供乐子和治疗低血压，不鼓励挂人/引战/政治倾向过强内容（除非特别弱智）。
 
 ### Telegram钱包|虚拟信用卡
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付|
-| okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--7744037840)       |可用于店租（Amazon、Shopify、Shope）、广告（Facebook、Google）、云服务、开发者应用、海淘购物等全场景支付。|
+| OnePayCard开卡机器人      | [@OnePayCard_bot](https://t.me/OnePayCard_bot?start=NzE5MDE2ODIzNQ==)       |虚拟信用卡用于店租（Amazon、Shopify、）、广告（Facebook、Google）、云服务、开发者应用、海淘等全场景支付|
+| 皮卡宝      | [@pikabaobot](https://t.me/pikabaobot?start=94bff21c-0)       |虚拟信用卡用于店租（Amazon、Shopify、）、广告（Facebook、Google）、云服务、开发者应用、海淘等全场景支付|
 
 ## 🤖 Telegram电报官方机器人
 
