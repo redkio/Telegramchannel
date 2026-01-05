@@ -18,14 +18,15 @@
 
 | **名字**        | **链接**                                                                  | **功能描述**                           |
 |---------------|------------------------------------------------------------------|--------------------------------------|
-| **神马搜索** | [@smss](https://t.me/smss?start=spread_7190168235)       | 发送关键词搜索关联群组与频道资源        |
-| **SOSO搜索群** | [@soso](https://t.me/sosocnc)                   | 群组输入关键词搜索群组、频道              |
+| **神马搜索** | [@smss](https://t.me/smss?start=spread_7190168235)       | 发送中文关键词搜索群组与频道资源        |
 | **极搜JiSou**  | [@jisou](https://t.me/jisou?start=a_7190168235)                 | 搜索关键词帮你找到电报群、频道、视频、音乐 |
-| **快搜**     | [@kuaisobot](https://t.me/kuai?start=a_3K2LLXB)         | 关键词搜索。                           |
+| **快搜**     | [@kuaisobot](https://t.me/kuai?start=a_3K2LLXB)         | 中文关键词搜索。                           |
 | **Super搜索** | [@Super](https://t.me/Super?start=ref-7190168235)               | 查找群组、频道                        |
-| **电报中文万能搜索群** | [@soucnc](https://t.me/soucnc)                 | 查找群组、频道                        |
-| **狗狗索引**   | [@DogeIndexBot](https://t.me/DogeIndexBot?start=DGB-fc0deea107b3435595f9296307df8da2) | 查找群组、频道 |
+| **电报中文万能搜索群** | [@soucnc](https://t.me/soucnc)                 | 搜索群组查找频道                        |
+| **SOSO搜索群** | [@soso](https://t.me/sosocnc)                   | 群组输入关键词搜索群组、频道              |
 | **快搜中文搜索群**    | [@kusosoc](https://t.me/kusosoc)               | 查找群组、频道，音乐或机器人 |
+| **狗狗索引**   | [@DogeIndexBot](https://t.me/DogeIndexBot?start=DGB-fc0deea107b3435595f9296307df8da2) | 查找群组、频道 |
+
 
 ### 🎵 书籍与音乐搜索
 
@@ -34,14 +35,16 @@
 | **搜书神器v2** | [@sosdbot](https://t.me/sosdbot?start=fromid_7744037840)    | 全年龄段搜书                 |
 | **好音乐搜索** | [@haoyybot](https://t.me/haoyybot)                         | 查找群组、频道、影视、音乐或机器人 |
 
-### 💎 电报查档账号购买空投资讯
+### 💎 电报账号购买，会员开通与查档
 
 | **名字**             | **链接**                                                         | **功能描述**                                       |
 |--------------------|-------------------------------------------------------------|-------------------------------------------------|
-| **电报查档机器人** | [@查信息](https://t.me/aisgk11111bot?start=NzY3MTU3MzExMQ==)                   | 查询信息 |
-| **电报账号购买**   | [账号鸭](https://www.zhanghaoya.com/?from=13297)                         | 每天整点准时更新免费高速节点                    |
-| **撸空投💰币圈💰Web3** | [@tglukongtou](https://t.me/tglukongtou)                   | 💰 分享最新前沿的空投资讯，奔向财务自由之路      |
 | **电报会员代开机器人** | [@TGVIPCNBOT](https://t.me/TGVIPCNBOT)                       | 💰 电报会员自助开通-星星购买        |
+| **电报账号购买**   | [账号鸭](https://www.zhanghaoya.com/?from=13297)                         | 电报账号购买                  |
+| **电报账号购买xp** | [X-Panel](https://x-panel.io/ref/55b714e411ce)                   | 电报账号购买| 电报服务      |
+| **电报查档机器人** | [@查信息](https://t.me/aisgk11111bot?start=NzY3MTU3MzExMQ==)                   | 查询信息 |
+
+## 电报中文语言包 [@BiCNC](https://t.me/BiCNC/8)
 
 ### 🍉 娱乐与爆料
 
